@@ -3,3 +3,4 @@ second add in mater
 add before first commit 
 add in git-test-clone
 add in git-test-clone 2
+add in git-test-clone 3
