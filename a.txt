@@ -1,0 +1,9 @@
+add before first commit
+second add in mater
+add before first commit 
+add at master
+add in git-test-clone
+add in git-test-clone 2
+add in git-test-clone 3
+add in git-test-clone 4
+add in git-test-clone 5
